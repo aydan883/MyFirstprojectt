@@ -28,6 +28,8 @@ nav .nav-infos{
 nav button{
     border-radius: 20px;
     border: 1px solid black;
-    font-size: 15px;
-    padding: 10px 20px;
+    font-size: 10px;
+    padding: 5px 20px;
+    cursor: pointer;
+    background-color: white;
 }
