@@ -26,7 +26,7 @@ nav .nav-infos{
     display: flex;
     gap: 10px;
 }
-nav button{
+nav .btn1{
     border-radius: 20px;
     border: 1px solid black;
     font-size: 10px;
@@ -54,12 +54,10 @@ nav button{
 .top-infos p{
     font-size: 13px;
 }
-.btn{
+.btn2{
     padding: 3px 15px;
     border-radius: 20px;
     border-style: none;
     background-color: #835944;
     color: white;
-    height: 35px;
-    width: 100px;
 }
