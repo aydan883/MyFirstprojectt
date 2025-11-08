@@ -40,24 +40,27 @@ nav .btn1{
     padding: 10px;
     display: flex;
     justify-content: space-between;
+    width: 100%;
+    align-items: end;
 }
 .top-infos{
- width: 24%;
+ width: 33%;
    line-height: 25px;
 
 }
 .top-infos h2{
     font-weight: 500;
-    font-size: 25px;
-    margin-bottom: 10px;
+    font-size: 30px;
+    margin-bottom: 15px;
 }
 .top-infos p{
     font-size: 13px;
 }
 .btn2{
-    padding: 3px 15px;
+    padding: 7px 25px;
     border-radius: 20px;
     border-style: none;
     background-color: #835944;
     color: white;
+    font-size: 10px;
 }
