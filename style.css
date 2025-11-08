@@ -54,13 +54,10 @@ nav button{
     font-size: 13px;
 }
 .btn{
-position: absolute;
-top: 25%;
-right: 10px;
-padding: 5px 50px;
-border-style: none;
-border-radius: 20px;
-background-color: #835944;
-cursor: pointer;
-color: white;
+    padding: 3px 15px;
+    border-radius: 20px;
+    border-style: none;
+    background-color: #835944;
+    color: white;
+    
 }
