@@ -40,10 +40,28 @@ nav button{
     justify-content: space-between;
     top: 80px;
     padding: 10px;
+    border: 2px solid black;
+}
+.top-infos{
+    width: 24%;
+   line-height: 25px;
 }
 .top-infos h2{
     font-weight: 500;
+    font-size: 25px;
+    margin-bottom: 10px;
 }
 .top-infos p{
     font-size: 13px;
+}
+.btn{
+display: flex;
+justify-content: end;
+align-items: end;
+padding: 5px 20px;
+border-style: none;
+border-radius: 20px;
+background-color: #835944;
+cursor: pointer;
+color: white;
 }
