@@ -140,3 +140,27 @@ form .message{
     background-color: #835944 ;
     color: white;
 }
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.footer h4{
+    position: absolute;
+    bottom: 50px;
+    font-weight: 500;
+    font-size: 20px;
+}
+.card{
+   background-color:#835944 ;
+   width: 365px;
+   height: 200px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.card .footer-card{
+    font-size: 10px;
+    color: white;
+    line-height: 25px;
+}
