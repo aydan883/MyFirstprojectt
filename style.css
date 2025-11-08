@@ -38,8 +38,12 @@ nav button{
     position: absolute;
     display: flex;
     justify-content: space-between;
-    width: 150px;
-    height: 200px;
     top: 80px;
     padding: 10px;
+}
+.top-infos h2{
+    font-weight: 500;
+}
+.top-infos p{
+    font-size: 13px;
 }
