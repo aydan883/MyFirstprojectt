@@ -54,10 +54,10 @@ nav button{
     font-size: 13px;
 }
 .btn{
-display: flex;
-justify-content: end;
-align-items: end;
-padding: 5px 20px;
+position: absolute;
+top: 25%;
+right: 10px;
+padding: 5px 50px;
 border-style: none;
 border-radius: 20px;
 background-color: #835944;
