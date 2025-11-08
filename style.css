@@ -49,9 +49,11 @@ nav .btn1{
 
 }
 .top-infos h2{
-    font-weight: 500;
-    font-size: 30px;
-    margin-bottom: 15px;
+    font-weight: 530;
+    font-size: 25px;
+    margin-bottom: 10px;
+    width: 120px;  
+    line-height: 35px;
 }
 .top-infos p{
     font-size: 13px;
