@@ -38,6 +38,8 @@ nav button{
     position: absolute;
     top: 80px;
     padding: 10px;
+    display: flex;
+    justify-content: space-between;
 }
 .top-infos{
  width: 24%;
@@ -58,5 +60,6 @@ nav button{
     border-style: none;
     background-color: #835944;
     color: white;
-   
+    height: 35px;
+    width: 100px;
 }
