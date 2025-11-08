@@ -33,3 +33,12 @@ nav button{
     cursor: pointer;
     background-color: white;
 }
+.top{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+    height: 200px;
+    top: 80px;
+    padding: 10px;
+}
