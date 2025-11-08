@@ -21,3 +21,6 @@ nav{
     background-color: white;
     height: 30px;
 }
+nav .nav-infos{
+    display: flex;
+}
